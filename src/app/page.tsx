@@ -54,7 +54,7 @@ export default function LandingPage() {
             { text: "Learn More", href: "#features" }
           ]}
           buttonAnimation="slide-up"
-          imageSrc="http://img.b2bpic.net/free-photo/lesbian-couple-together-outdoors-concept_53876-13932.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/lesbian-couple-together-outdoors-concept_53876-13932.jpg?_wi=1"
           imageAlt="Best friends sharing a joyful moment together"
           mediaAnimation="slide-up"
           imagePosition="right"
@@ -74,7 +74,7 @@ export default function LandingPage() {
           features={[
             {
               id: "1",              title: "Memory Vault",              author: "Store Forever",              description: "Upload and organize photos, videos, and voice notes in a beautiful timeline. Each memory is a precious moment preserved just for you two.",              tags: ["Photos", "Videos", "Voice"],
-              imageSrc: "http://img.b2bpic.net/free-photo/detective-inspector-examines-case-files_482257-75311.jpg",              imageAlt: "Memory vault timeline display"
+              imageSrc: "http://img.b2bpic.net/free-photo/detective-inspector-examines-case-files_482257-75311.jpg?_wi=1",              imageAlt: "Memory vault timeline display"
             },
             {
               id: "2",              title: "Shared Diary",              author: "Write Together",              description: "A private journal where both friends can write daily notes, thoughts, and feelings. Create an intimate record of your friendship journey.",              tags: ["Journal", "Private", "Daily"],
@@ -86,15 +86,15 @@ export default function LandingPage() {
             },
             {
               id: "4",              title: "Mood Check",              author: "Express Yourself",              description: "Quick mood buttons like 'I miss you,' 'Thinking of you,' 'Bad day today,' and 'I'm happy today.' Share your feelings instantly.",              tags: ["Moods", "Feelings", "Quick"],
-              imageSrc: "http://img.b2bpic.net/free-vector/video-game-health-bar-element-collection_23-2150257564.jpg",              imageAlt: "Mood check buttons interface"
+              imageSrc: "http://img.b2bpic.net/free-vector/video-game-health-bar-element-collection_23-2150257564.jpg?_wi=1",              imageAlt: "Mood check buttons interface"
             },
             {
               id: "5",              title: "Friendship Quotes",              author: "Daily Inspiration",              description: "Receive daily emotional friendship quotes that celebrate your bond. Share them on social media to spread the friendship love.",              tags: ["Quotes", "Daily", "Sharing"],
-              imageSrc: "http://img.b2bpic.net/free-vector/motivational-poster-inspirational-quote-design_1284-43535.jpg",              imageAlt: "Friendship quotes display"
+              imageSrc: "http://img.b2bpic.net/free-vector/motivational-poster-inspirational-quote-design_1284-43535.jpg?_wi=1",              imageAlt: "Friendship quotes display"
             },
             {
               id: "6",              title: "Memory Reminders",              author: "Anniversary Moments",              description: "Get notified when memories from the same date in previous years appear. Relive your best moments with nostalgic notifications.",              tags: ["Reminders", "Memories", "Notifications"],
-              imageSrc: "http://img.b2bpic.net/free-photo/detective-inspector-examines-case-files_482257-75311.jpg",              imageAlt: "Memory reminder notification"
+              imageSrc: "http://img.b2bpic.net/free-photo/detective-inspector-examines-case-files_482257-75311.jpg?_wi=2",              imageAlt: "Memory reminder notification"
             }
           ]}
         />
@@ -117,11 +117,11 @@ export default function LandingPage() {
             },
             {
               id: "story-2",              brand: "SoulSync",              name: "Quote Story",              price: "Auto-Generated",              rating: 5,
-              reviewCount: "Instant",              imageSrc: "http://img.b2bpic.net/free-vector/motivational-poster-inspirational-quote-design_1284-43535.jpg",              imageAlt: "Generated quote story template"
+              reviewCount: "Instant",              imageSrc: "http://img.b2bpic.net/free-vector/motivational-poster-inspirational-quote-design_1284-43535.jpg?_wi=2",              imageAlt: "Generated quote story template"
             },
             {
               id: "story-3",              brand: "SoulSync",              name: "Milestone Story",              price: "Auto-Generated",              rating: 5,
-              reviewCount: "Instant",              imageSrc: "http://img.b2bpic.net/free-vector/video-game-health-bar-element-collection_23-2150257564.jpg",              imageAlt: "Generated milestone story template"
+              reviewCount: "Instant",              imageSrc: "http://img.b2bpic.net/free-vector/video-game-health-bar-element-collection_23-2150257564.jpg?_wi=2",              imageAlt: "Generated milestone story template"
             }
           ]}
         />
@@ -176,7 +176,7 @@ export default function LandingPage() {
           textboxLayout="default"
           useInvertedBackground={false}
           mediaPosition="left"
-          imageSrc="http://img.b2bpic.net/free-photo/lesbian-couple-together-outdoors-concept_53876-13932.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/lesbian-couple-together-outdoors-concept_53876-13932.jpg?_wi=2"
           imageAlt="Help and support illustration"
           faqs={[
             {
@@ -203,7 +203,7 @@ export default function LandingPage() {
           title="Ready to Connect?"
           description="Download SoulSync today and start creating memories with your best friend. Join thousands of friendships finding their perfect digital space."
           useInvertedBackground={false}
-          imageSrc="http://img.b2bpic.net/free-photo/lesbian-couple-together-outdoors-concept_53876-13932.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/lesbian-couple-together-outdoors-concept_53876-13932.jpg?_wi=3"
           imageAlt="Get started with SoulSync"
           mediaAnimation="slide-up"
           mediaPosition="right"
